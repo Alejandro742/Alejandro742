@@ -1,4 +1,10 @@
-### Hi there 👋
+## About 👋
+#
+Hi guys, I'am **Alejandro Barba**. I am a Backend developer from Guadalajara, Mexico. I´m currently working on Menita Comercial as Backend Developer Sr and a sort of Tech Lead.
+My principal stack and the technologies that I work every day are **NodeJs**, **TypeScript**, **MySql**, **AWS**, **React**, **Vue**, **Git**, **Docker**, and a lot of more. If you have same interests or some questions contact me!.
+
+## 📫 Contant Info
+[Instagram](https://www.instagram.com/alejandrobg_961/) | [Linkedin](https://www.linkedin.com/in/alejandro-barba-garc%C3%ADa-355090198/) | [Portfolio](https://www.alejandro-bg.com/) | [GitLab](https://gitlab.com/Alejandro742) | [Twitter](https://twitter.com/Alejand78666280)
 
 <!--
 **Alejandro742/Alejandro742** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
